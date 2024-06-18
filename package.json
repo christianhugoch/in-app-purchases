@@ -1,0 +1,12 @@
+{
+  "name": "@saltcorn/in-app-purchases",
+  "version": "0.0.1",
+  "description": "In-app purchases for Saltcorn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Hugo",
+  "license": "MIT",
+  "repository": "github:saltcorn/in-app-purchase"
+}
